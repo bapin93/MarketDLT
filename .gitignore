@@ -1,3 +1,7 @@
 .metadata
 .recommenders
 bin
+.gitignore
+.project
+org.eclipse.jdt.core.prefs
+org.eclipse.m2e.core.prefs
